@@ -1,0 +1,17 @@
+
+
+Tree type, RedBlackTree
+Workload, 1
+Test time, 10s
+Insert operation, 3665160
+Average latency, 1336,ns
+P50 latency, 1047,ns
+P90 latency, 1389,ns
+P99 latency, 5026,ns
+Find operation, 3667980
+Average latency, 1153,ns
+P50 latency, 880,ns
+P90 latency, 1214,ns
+P99 latency, 4102,ns
+Remove operation, 0
+No operation
