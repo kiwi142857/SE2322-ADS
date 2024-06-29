@@ -1,0 +1,7 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory 'e:/HW/advancedDataStructure/hw11/hw11-handout'
+g++ -Wall -Wextra -std=c++23   -c -o main.o main.cc
+g++ -Wall -Wextra -std=c++23   -c -o waiting_once.o waiting_once.cc
+g++ -Wall -Wextra -std=c++23  main.o waiting_once.o -o main 
+make.exe: Leaving directory 'e:/HW/advancedDataStructure/hw11/hw11-handout'
+ 
