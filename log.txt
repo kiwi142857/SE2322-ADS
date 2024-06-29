@@ -1,0 +1,132 @@
+Running test with size=1000, k=10, isOrdered=0, isLinear=0, testTime=10
+Test passed
+Per element time: 56.48 ms
+Running test with size=1000, k=10, isOrdered=0, isLinear=1, testTime=10
+Test passed
+Per element time: 206.741 ms
+Running test with size=1000, k=10, isOrdered=1, isLinear=0, testTime=10
+Test passed
+Per element time: 26.379 ms
+Running test with size=1000, k=10, isOrdered=1, isLinear=1, testTime=10
+Test passed
+Per element time: 154.75 ms
+Running test with size=1000, k=100, isOrdered=0, isLinear=0, testTime=10
+Test passed
+Per element time: 70.439 ms
+Running test with size=1000, k=100, isOrdered=0, isLinear=1, testTime=10
+Test passed
+Per element time: 266.219 ms
+Running test with size=1000, k=100, isOrdered=1, isLinear=0, testTime=10
+Test passed
+Per element time: 26.67 ms
+Running test with size=1000, k=100, isOrdered=1, isLinear=1, testTime=10
+Test passed
+Per element time: 155.596 ms
+Running test with size=1000, k=1000, isOrdered=0, isLinear=0, testTime=10
+Test passed
+Per element time: 62.567 ms
+Running test with size=1000, k=1000, isOrdered=0, isLinear=1, testTime=10
+Test passed
+Per element time: 206.687 ms
+Running test with size=1000, k=1000, isOrdered=1, isLinear=0, testTime=10
+Test passed
+Per element time: 34.833 ms
+Running test with size=1000, k=1000, isOrdered=1, isLinear=1, testTime=10
+Test passed
+Per element time: 158.297 ms
+Running test with size=100000, k=10, isOrdered=0, isLinear=0, testTime=10
+Test passed
+Per element time: 6698.65 ms
+Running test with size=100000, k=10, isOrdered=0, isLinear=1, testTime=10
+Test passed
+Per element time: 31711.4 ms
+Running test with size=100000, k=10, isOrdered=1, isLinear=0, testTime=10
+Test passed
+Per element time: 1650.02 ms
+Running test with size=100000, k=10, isOrdered=1, isLinear=1, testTime=10
+Test passed
+Per element time: 14735.7 ms
+Running test with size=100000, k=100, isOrdered=0, isLinear=0, testTime=10
+Test passed
+Per element time: 6913.64 ms
+Running test with size=100000, k=100, isOrdered=0, isLinear=1, testTime=10
+Test passed
+Per element time: 22748.6 ms
+Running test with size=100000, k=100, isOrdered=1, isLinear=0, testTime=10
+Test passed
+Per element time: 2600.86 ms
+Running test with size=100000, k=100, isOrdered=1, isLinear=1, testTime=10
+Test passed
+Per element time: 15784.8 ms
+Running test with size=100000, k=1000, isOrdered=0, isLinear=0, testTime=10
+Test passed
+Per element time: 6640.02 ms
+Running test with size=100000, k=1000, isOrdered=0, isLinear=1, testTime=10
+Test passed
+Per element time: 22023.2 ms
+Running test with size=100000, k=1000, isOrdered=1, isLinear=0, testTime=10
+Test passed
+Per element time: 2083.39 ms
+Running test with size=100000, k=1000, isOrdered=1, isLinear=1, testTime=10
+Test passed
+Per element time: 16314.8 ms
+Running test with size=100000, k=100000, isOrdered=0, isLinear=0, testTime=10
+Test passed
+Per element time: 6231.55 ms
+Running test with size=100000, k=100000, isOrdered=0, isLinear=1, testTime=10
+Test passed
+Per element time: 21408.3 ms
+Running test with size=100000, k=100000, isOrdered=1, isLinear=0, testTime=10
+Test passed
+Per element time: 1478.31 ms
+Running test with size=100000, k=100000, isOrdered=1, isLinear=1, testTime=10
+Test passed
+Per element time: 13217.7 ms
+Running test with size=1000000, k=10, isOrdered=0, isLinear=0, testTime=10
+Test passed
+Per element time: 76147.4 ms
+Running test with size=1000000, k=10, isOrdered=0, isLinear=1, testTime=10
+Test passed
+Per element time: 228613 ms
+Running test with size=1000000, k=10, isOrdered=1, isLinear=0, testTime=10
+Test passed
+Per element time: 24178.6 ms
+Running test with size=1000000, k=10, isOrdered=1, isLinear=1, testTime=10
+Test passed
+Per element time: 155054 ms
+Running test with size=1000000, k=100, isOrdered=0, isLinear=0, testTime=10
+Test passed
+Per element time: 65813.8 ms
+Running test with size=1000000, k=100, isOrdered=0, isLinear=1, testTime=10
+Test passed
+Per element time: 252893 ms
+Running test with size=1000000, k=100, isOrdered=1, isLinear=0, testTime=10
+Test passed
+Per element time: 24326.5 ms
+Running test with size=1000000, k=100, isOrdered=1, isLinear=1, testTime=10
+Test passed
+Per element time: 160430 ms
+Running test with size=1000000, k=1000, isOrdered=0, isLinear=0, testTime=10
+Test passed
+Per element time: 73576.6 ms
+Running test with size=1000000, k=1000, isOrdered=0, isLinear=1, testTime=10
+Test passed
+Per element time: 261328 ms
+Running test with size=1000000, k=1000, isOrdered=1, isLinear=0, testTime=10
+Test passed
+Per element time: 24051.1 ms
+Running test with size=1000000, k=1000, isOrdered=1, isLinear=1, testTime=10
+Test passed
+Per element time: 115405 ms
+Running test with size=1000000, k=100000, isOrdered=0, isLinear=0, testTime=10
+Test passed
+Per element time: 81746.3 ms
+Running test with size=1000000, k=100000, isOrdered=0, isLinear=1, testTime=10
+Test passed
+Per element time: 266729 ms
+Running test with size=1000000, k=100000, isOrdered=1, isLinear=0, testTime=10
+Test passed
+Per element time: 34231.7 ms
+Running test with size=1000000, k=100000, isOrdered=1, isLinear=1, testTime=10
+Test passed
+Per element time: 157640 ms
