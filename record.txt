@@ -1,0 +1,44 @@
+N = 1
+Fibonacci(1) = 1
+Execution time: 0.000256 milliseconds
+
+N = 1
+Fibonacci(1) = 1
+Execution time: 0.000306 milliseconds
+
+N = 2
+Fibonacci(2) = 1
+Execution time: 0.000507 milliseconds
+
+N = 4
+Fibonacci(4) = 3
+Execution time: 0.000528 milliseconds
+
+N = 8
+Fibonacci(8) = 21
+Execution time: 0.00132 milliseconds
+
+N = 16
+Fibonacci(16) = 987
+Execution time: 0.038264 milliseconds
+
+N = 1
+Fibonacci(1) = 102334155
+Execution time: 3992.36 milliseconds
+
+N = 2
+Fibonacci(2) = 102334155
+Execution time: 4181.05 milliseconds
+
+N = 4
+Fibonacci(4) = 102334155
+Execution time: 3534.92 milliseconds
+
+N = 8
+Fibonacci(8) = 102334155
+Execution time: 3940.87 milliseconds
+
+N = 16
+Fibonacci(16) = 102334155
+Execution time: 4053.06 milliseconds
+
