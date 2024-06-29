@@ -1,0 +1,6 @@
+load ground truth
+load query
+load base
+querying
+M: 50, M_max: 50, ef_construction: 100, ef_search: 100
+average recall: 0.990, single query time 0.7 ms
