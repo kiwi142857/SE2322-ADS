@@ -1,0 +1,12 @@
+.DS_Store
+
+./data
+
+data/*
+
+*.o
+
+correctness
+persistence
+
+.gitignore
