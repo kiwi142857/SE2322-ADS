@@ -1,0 +1,5 @@
+make.exe --dry-run --keep-going --print-directory
+make.exe: Entering directory 'e:/HW/advancedDataStructure/lab/lab1.commit'
+g++ -std=c++17 -g -o main main.o radix_tree.o compressed_radix_tree.o
+make.exe: Leaving directory 'e:/HW/advancedDataStructure/lab/lab1.commit'
+ 
